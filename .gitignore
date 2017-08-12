@@ -1,0 +1,2 @@
+/.idea   ## 根目录下的idea文件(夹)
+node_modules  ## 任意目录下的node_modules文件(夹)
